@@ -1,4 +1,4 @@
-# NutrisyncXAlexa
+# NutriSync X Alexa
 An anywhere convenience approach to nutrition tracking and health.
 
 Nutrisync X Alexa uses Amazon Alexa as a convenient source of nutritional information and data. Whether trying to bulk up or slim down, Alexa can assist you with all your nutritional needs via a food database and lambda functions to help her help you! This project aims to expand the ideas of applications and websites to bring those interactive user interfaces to a vocalized pocket device. 
